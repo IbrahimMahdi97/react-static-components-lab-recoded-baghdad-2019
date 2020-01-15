@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-class App extends React.Component {
+class default App extends React.Component {
 	render() {
 		// your code in the return statement below!
 		return (
