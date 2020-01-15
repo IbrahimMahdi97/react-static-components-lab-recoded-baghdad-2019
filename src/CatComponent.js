@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-class CatComponent extends Component {
+class CatComponent extends React.Component {
   render() {
     return (
       <div className="bar" id="cat">
